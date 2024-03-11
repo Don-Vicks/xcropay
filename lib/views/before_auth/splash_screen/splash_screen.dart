@@ -28,7 +28,7 @@ class SplashScreen extends StatelessWidget {
                     child: Animate(
                       effects: const [FadeEffect(), ScaleEffect()],
                       child: TitleHeading1Widget(
-                        text: Strings.appName,
+                        text: Strings.splasht,
                         textAlign: TextAlign.center,
                         color: Theme.of(context).primaryColor,
                       ),

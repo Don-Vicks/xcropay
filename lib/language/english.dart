@@ -1,5 +1,6 @@
 class Strings {
-  static const String appName = "appName";
+  static const String appName = "Xcropay";
+  static const String splasht = "Buy And Sell Online Safely";
   static const String appVersion = "appVersion";
   static const String pleaseFillOutTheField = "pleaseFillOutTheField";
   static const String enter = "enter";
@@ -91,7 +92,7 @@ class Strings {
   static const String selectWhoWillPayTheFees = "selectWhoWillPayTheFees";
   static const String userNameOrEmail = "userNameOrEmail";
   static const String amount = "amount";
-  static const String remarks = "remarks";
+  static const String remarks = "Agreed Terms";
   static const String optional = "optional";
   static const String writeHere = "writeHere";
   static const String attachments = "attachments";
@@ -177,14 +178,17 @@ class Strings {
   static const String validUser = "validUser";
   static const String invalidUser = "invalidUser";
   static const String exchangeMSG = "exchangeMsg";
-  static const String changePasswordConfirmationMSG = "changePasswordConfirmationMsg";
+  static const String changePasswordConfirmationMSG =
+      "changePasswordConfirmationMsg";
   static const String exchangeConfirmationMSG = "exchangeConfirmationMsg";
   static const String moneyOutConfirmationMSG = "moneyOutConfirmationMsg";
   static const String addMoneyConfirmationMSG = "addMoneyConfirmationMsg";
-  static const String addNewEscrowConfirmationMSG = "addNewEscrowConfirmationMsg";
+  static const String addNewEscrowConfirmationMSG =
+      "addNewEscrowConfirmationMsg";
   static const String limitMSG = "limitMsg";
   static const String kycFormConfirmationMSG = "kycFormConfirmationMsg";
-  static const String resetPasswordConfirmationMSG = "resetPasswordConfirmationMsg";
+  static const String resetPasswordConfirmationMSG =
+      "resetPasswordConfirmationMsg";
 
   static const String message = "message";
   // static const String buyerPay = "buyerPay";

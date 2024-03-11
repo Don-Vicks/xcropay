@@ -1,4 +1,4 @@
-package net.appdevs.escroc
+package com.xcropay
 
 import io.flutter.embedding.android.FlutterFragmentActivity
 
